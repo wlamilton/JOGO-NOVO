@@ -6,7 +6,7 @@ Para jogar ele é bem simples,você deve:
 * No celular clicar após clicar em “play” segure para a direção onde desejar que o personagem vá.
 * No computador após apertar “play” tem a opção de clicar pelo mouse e movê-lo na direção desejada ou então direcionar o personagem pelas setas do teclado.
 
-<a>LINK JOGO<a/>https://wlamilton.github.io/JOGO-NOVO/
+<a>LINK JOGO:<a/>https://wlamilton.github.io/JOGO-NOVO/
 
 <a>PRINTS DA TELA DO JOGO<a/>
 
