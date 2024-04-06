@@ -3,6 +3,7 @@
 ### Aqui esta o jogo Fuja das cobras
 
 <a>DESCRIÇÃO DO JOGO E JOGABILIDADE:
+
 <a/> O Fuga das Cobras é um jogo que envolve diversão e competitividade entre os amigos,que consiste em ganhar moedas fugindo das cobras contando que cada moeda vale 1,podendo ser acessado pelo computador e celular.
 
 Para jogar ele é bem simples,você deve:
