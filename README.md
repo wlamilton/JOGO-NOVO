@@ -6,6 +6,6 @@ Para jogar ele é bem simples,você deve:
 
 [!LINK JOGO]https://wlamilton.github.io/JOGO-NOVO/
 
-<img "https://github.com/wlamilton/JOGO-NOVO/assets/164428034/01130b57-0ed5-4a8a-a245-85a2e726defb">
+<img src="https://github.com/wlamilton/JOGO-NOVO/assets/164428034/01130b57-0ed5-4a8a-a245-85a2e726defb">
 
  
